@@ -1,2 +1,2 @@
 # luckycode-common
-公用工具类
+通用工具类
